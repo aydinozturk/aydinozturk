@@ -42,15 +42,6 @@ Writing: *IoT and AI in the Maritime Industry of the Future* (Medium, Oct 2023).
 - **Applied AI:** LLMs, multi-agent architectures, MCP tool integration, permission-aware retrieval, computer vision, on-premise models
 - **Management:** Agile, Scrum, Jira, project planning, MS Project
 
-## 📌 Featured projects
-
-| Project | Stack | What it is |
-|---|---|---|
-| [agents-room](https://github.com/aydinozturk/agents-room) | TypeScript | Shared MCP meeting table for AI coding agents (Claude Code, Codex, Gemini CLI, Hermes): rooms, consultations, task board, file reservations, live panel |
-| [LayaMCP](https://github.com/aydinozturk/LayaMCP) | Python | MCP server for the Laya decision model: calibrated classify / triage / guardrail / routing tools for AI agents, with GPU/CPU Docker images |
-| [elm327-tcp-simulator](https://github.com/aydinozturk/elm327-tcp-simulator) | Go | TCP simulator emulating an ELM327 Wi-Fi OBD2 device: AT commands, PID responses, JSON vehicle profiles |
-| [nodemcu-dht22](https://github.com/aydinozturk/nodemcu-dht22) | C++ | NodeMCU (ESP8266) temperature/humidity readings over MQTT with a DHT22 sensor |
-
 ## 📫 Get in touch
 
 - 🌐 [aydinozturk.com](https://aydinozturk.com) ([Türkçe](https://aydinozturk.com/tr/))
