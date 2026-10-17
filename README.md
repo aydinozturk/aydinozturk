@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-aydinozturk.com-0A66C2?style=flat-square)](https://aydinozturk.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aydinozturk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydinozturk)
 [![CV](https://img.shields.io/badge/CV-aydinozturk.github.io-24292F?style=flat-square)](https://aydinozturk.github.io)
-[![Email](https://img.shields.io/badge/Email-aydinozturk41%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aydinozturk41@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hello%40aydinozturk.com-EA4335?style=flat-square)](mailto:hello@aydinozturk.com)
 
 I'm a software development manager and systems architect working where shipbuilding meets software. I lead a 10-person engineering team across two product lines — a shipyard ERP and a vessel telemetry platform — and build applied AI systems that have to be right: multi-agent, MCP-based, permission-aware and deployable on-premise.
 
@@ -56,7 +56,7 @@ Writing: *IoT and AI in the Maritime Industry of the Future* (Medium, Oct 2023).
 - 🌐 [aydinozturk.com](https://aydinozturk.com) ([Türkçe](https://aydinozturk.com/tr/))
 - 💼 [LinkedIn](https://www.linkedin.com/in/aydinozturk)
 - 📄 [Full CV](https://aydinozturk.github.io)
-- ✉️ [aydinozturk41@gmail.com](mailto:aydinozturk41@gmail.com)
+- ✉️ [hello@aydinozturk.com](mailto:hello@aydinozturk.com)
 
 ---
 
