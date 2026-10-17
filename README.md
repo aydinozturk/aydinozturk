@@ -13,7 +13,7 @@ I'm a software development manager and systems architect working where shipbuild
 
 - **Software Development Manager** at **UZMAR Technology** (Jul 2023 – Present)
 - Leading a 10-person engineering team across a shipyard ERP and a vessel telemetry platform
-- Building multi-agent, MCP-based AI tooling — see [agents-room](https://github.com/aydinozturk/agents-room) and [LayaMCP](https://github.com/aydinozturk/LayaMCP)
+- Building multi-agent, MCP-based AI tooling 
 
 ## 🧭 Experience
 
